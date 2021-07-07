@@ -1,7 +1,7 @@
 <h1 align="center"> 
   <img src="https://github.com/marssaljr/spotify-home/blob/main/assets/logo.png" width="200px"/>  
   <br>  
-  Spotify - HTML & CSS only
+  HTML & CSS only
 </h1>  
  
 <p align="center"> 
@@ -33,8 +33,8 @@
 
 This project was made with the following technologies:
 
-- [HTML][html] 
-- [CSS3][css] 
+- HTML 
+- CSS3 
  
 ## :memo: License
 
