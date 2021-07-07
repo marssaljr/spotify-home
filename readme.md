@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img alt="Spotify" src=".assets/logo.png" width="200px"/>  
+  <img src="https://github.com/marssaljr/spotify-home/blob/main/assets/logo.png" width="200px"/>  
   <br>  
   Spotify - HTML & CSS only
 </h1>  
