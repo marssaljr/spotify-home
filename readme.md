@@ -29,7 +29,7 @@
 ![App Screenshot](https://imgur.com/nPTlgQ0.png) 
 <p align="center"> 
   <a href="https://marssaljr.github.io/spotify-home/" target="_blank"> 
-    <img alt="Demo on Github" src="https://raw.githubusercontent.com/marssaljr/spotify-home/main/assets/github.png"> 
+    <img alt="Demo on Github" src="https://raw.githubusercontent.com/marssaljr/spotify-home/main/assets/github.png" width="150px"> 
   </a>
 </p> 
 
