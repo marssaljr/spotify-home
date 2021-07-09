@@ -12,6 +12,10 @@
  
   <a href="https://github.com/marssaljr/spotify-home/issues"> 
     <img alt="Repository issues" src="https://img.shields.io/github/issues/marssaljr/spotify-home.svg"> 
+  </a>  
+  
+  <a href="https://gitpod.io/#https://github.com/marssaljr/spotify-home"> 
+    <img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"/> 
   </a> 
  
   <img alt="GitHub" src="https://img.shields.io/github/license/marssaljr/spotify-home.svg"> 
